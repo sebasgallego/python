@@ -1,2 +1,2 @@
-# python
-Proyectos realizados con lenguaje de programación Python utilizando diferentes frameworks y  librerías. 
+# Python
+Proyectos realizados en lenguaje de programación Python, utilizando diferentes frameworks y librerías. 
