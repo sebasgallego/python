@@ -1,4 +1,4 @@
-# FastAPI
+# FastAPI framework
 FastAPI es un marco web moderno, rápido (de alto rendimiento) para crear API con Python 3.6+ basado en sugerencias de tipo estándar de Python.
 
 Las características clave son:
